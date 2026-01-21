@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "z7fRA6KwBw0=",
+  "success": true,
+  "projectFilePath": "C:\\2024396\\AuthServiceBilly\\src\\AuthServiceIN6BV.Application\\AuthServiceIN6BV.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Informatica\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.2\\microsoft.extensions.dependencyinjection.abstractions.10.0.2.nupkg.sha512",
+    "C:\\Users\\Informatica\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.2\\microsoft.extensions.logging.abstractions.10.0.2.nupkg.sha512",
+    "C:\\Users\\Informatica\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.2\\system.diagnostics.diagnosticsource.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
