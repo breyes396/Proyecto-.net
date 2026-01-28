@@ -14,7 +14,7 @@ public class User
 
     [Required(ErrorMessage = "El apellido es obligatorio.")]
     [MaxLength(25, ErrorMessage = "El apellido no puede tener mas de 25 caracteres.")]  
-    public string SurName {get; set;} = string.Empty;
+    public string Surname {get; set;} = string.Empty;
 
     [Required(ErrorMessage = "El nombre de usuario es obligatorio.")]
     [MaxLength(25, ErrorMessage = "El nombre de usuario no puede tener mas de 25 caracteres.")]  
@@ -34,10 +34,10 @@ public class User
     public bool Status {get; set;} = false;
 
     [Required]
-    public DateTime CreateAt {get; set;}
+    public DateTime CreatedAt {get; set;}
 
     [Required]
-    public DateTime UpdateAt {get; set;}
+    public DateTime UpdatedAt {get; set;}
 
     public UserProfile UserProfile {get; set;} = null!;
 
